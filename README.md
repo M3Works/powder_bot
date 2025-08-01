@@ -1,6 +1,8 @@
 # powder_bot
 Dashboards and tools for insights on the Powder River
 
+This is opensource work supported by [M3 Works](https://m3works.io)
+
 ## Code
 Jupyter notebooks can be found under the `notebooks/` directory.
 These notebooks are used to analyze and visualize data related to the Powder River.
