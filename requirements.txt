@@ -4,3 +4,4 @@ notebook>=7.0,<8.0
 folium>=0.12,<1.0
 mapclassify>=2.4.3,<3.0
 xyzservices==2025.4.0
+matplotlib
